@@ -1,0 +1,66 @@
+Quartus II Archive log --	C:/altera/13.1/atar_fikret_1801042693.qarlog
+
+Archive:	C:/altera/13.1/atar_fikret_1801042693.qar
+Date:		Wed Jan 20 20:57:26 2021
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+C:/altera/13.1/workspace/alu_32bit.v
+C:/altera/13.1/workspace/alu_32bit_testbench.v
+C:/altera/13.1/workspace/alu_control.v
+C:/altera/13.1/workspace/alu_control_testbench.v
+C:/altera/13.1/workspace/and_32.v
+C:/altera/13.1/workspace/and_32_testbench.v
+C:/altera/13.1/workspace/comparator_32bit.v
+C:/altera/13.1/workspace/comparator_32bit_testbench.v
+C:/altera/13.1/workspace/control_unit.v
+C:/altera/13.1/workspace/control_unit_testbench.v
+C:/altera/13.1/workspace/data_memory.txt
+C:/altera/13.1/workspace/data_memory.v
+C:/altera/13.1/workspace/datamem_output.txt
+C:/altera/13.1/workspace/db/tut01.db_info
+C:/altera/13.1/workspace/full_adder.v
+C:/altera/13.1/workspace/full_adder_32bit.v
+C:/altera/13.1/workspace/full_adder_32bit_testbench.v
+C:/altera/13.1/workspace/full_adder_testbench.v
+C:/altera/13.1/workspace/half_adder.v
+C:/altera/13.1/workspace/half_adder_testbench.v
+C:/altera/13.1/workspace/incremental_db/compiled_partitions/tut01.db_info
+C:/altera/13.1/workspace/instruction.txt
+C:/altera/13.1/workspace/instructionmem.v
+C:/altera/13.1/workspace/instructionmem_testbench.v
+C:/altera/13.1/workspace/loadupper_imm.v
+C:/altera/13.1/workspace/mips_process.v
+C:/altera/13.1/workspace/mips_process_testbench.v
+C:/altera/13.1/workspace/mux2.v
+C:/altera/13.1/workspace/mux2_gate.v
+C:/altera/13.1/workspace/mux2_gate_32.v
+C:/altera/13.1/workspace/mux2_gate_32_testbench.v
+C:/altera/13.1/workspace/mux2_gate_5.v
+C:/altera/13.1/workspace/mux3.v
+C:/altera/13.1/workspace/mux5_1.v
+C:/altera/13.1/workspace/mux5_32.v
+C:/altera/13.1/workspace/mux5_32_testbench.v
+C:/altera/13.1/workspace/mux8.v
+C:/altera/13.1/workspace/mux8_testbench().v
+C:/altera/13.1/workspace/not_32bit.v
+C:/altera/13.1/workspace/or_32bit.v
+C:/altera/13.1/workspace/or_32bit_testbench.v
+C:/altera/13.1/workspace/register.txt
+C:/altera/13.1/workspace/register_blok.v
+C:/altera/13.1/workspace/register_blok_testbench.v
+C:/altera/13.1/workspace/registers_outputs.txt
+C:/altera/13.1/workspace/signextend_32bit.v
+C:/altera/13.1/workspace/subt_32bit.v
+C:/altera/13.1/workspace/subt_32bit_testbench.v
+C:/altera/13.1/workspace/tut01.qpf
+C:/altera/13.1/workspace/tut01.qsf
+C:/altera/13.1/workspace/type_control.v
+C:/altera/13.1/workspace/type_control_testbench.v
+C:/altera/13.1/workspace/xor_32bit.v
+C:/altera/13.1/workspace/zeronextended_32bit.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 55 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

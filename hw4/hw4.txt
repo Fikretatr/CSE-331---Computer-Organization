@@ -1,0 +1,7 @@
+Report file must be include 
+
+least 28 instructions (14 instrcution x2) if you need extra instructions for jump and brahch use.
+as shown in the example report page in the ps, each instruction must indicate clear statement (ex:lw $4, 0($5)) and screenshot what register and memory block has changed.
+Submission format must be as follows:
+
+StudentNo.zip  ->  StudentNo (folder) -> StudentNo.qar, Report_hw4.pdf
