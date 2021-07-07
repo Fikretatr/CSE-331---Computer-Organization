@@ -1,0 +1,15 @@
+ou can use all wiring, gates, plexers and memory circuit, only adder and shifter in arithmetic circuits
+
+You need 1 adder(32bit) and 1 shifter(64bit) for datapath part. (lecture5/page12)
+
+If you design adder & shifter own, you take bonus point.
+
+Your report file include datapath design, control unit design, least 6 test cases. 
+
+Hints: 
+
+circuit file (.circ) can be include more than one circuit design (we shown in ps hour)
+It can be useful create test set for all circuit files. 
+Submission format must be as follows:
+
+StudentNo.zip  ->  StudentNo (folder) -> control.circ, datapath.circ, mult32.circ, Report_hw2.pdf 
